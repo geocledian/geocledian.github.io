@@ -1,2 +1,2 @@
 # geocledian.github.io
-geocledina github page
+geocledian github page
